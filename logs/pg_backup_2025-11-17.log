@@ -1,0 +1,14 @@
+[2025-11-17 23:19:06] ==========================================
+[2025-11-17 23:19:06] PostgreSQL Backup Process Started
+[2025-11-17 23:19:06] ==========================================
+[2025-11-17 23:19:06] Hostname: LAPTOP-JHDVE5I5
+[2025-11-17 23:19:06] Backup Directory: /home/LAPTOP-JHDVE5I5/Laboratory Exercises/Lab8
+[2025-11-17 23:19:06] Database: production_db
+[2025-11-17 23:19:06] Timestamp: 2025-11-17-231905
+[2025-11-17 23:22:08] ==========================================
+[2025-11-17 23:22:08] PostgreSQL Backup Process Started
+[2025-11-17 23:22:08] ==========================================
+[2025-11-17 23:22:08] Hostname: LAPTOP-JHDVE5I5
+[2025-11-17 23:22:08] Backup Directory: /home/LAPTOP-JHDVE5I5/Laboratory Exercises/Lab8
+[2025-11-17 23:22:08] Database: production_db
+[2025-11-17 23:22:08] Timestamp: 2025-11-17-232208
